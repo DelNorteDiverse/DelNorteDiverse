@@ -111,3 +111,28 @@ padding-left: 30px;
 text-align: right;
 
 background: #81BBA7;}
+
+.letterback {position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: rgba(129, 187, 167, 0.6)}
+
+.letterhighlight {position: absolute;
+width: 648px;
+height: 968px;
+left: 396px;
+top: 28px;
+
+background: #FFFFFF;}
+
+.homebutton {position: absolute;
+width: 309px;
+height: 47px;
+left: 44px;
+top: 102px;
+text-align: center;
+
+background: #81BBA7;}
