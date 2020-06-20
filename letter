@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>An Open Letter</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<div class="letterback"></div>
+	<button class="button homebutton" onclick="https://delnortediverse.github.io/DelNorteDiverse/">Home</button>
+	<div class="letterhighlight"></div>
+</body>
+</html>
