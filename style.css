@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	*{ font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"}
+	
+.rectanglebig {
+		position: absolute;
+		width: 814px;
+		height: 977px;
+		left: 0px;
+		top: 47px;
+
+		background: #213a60;
+		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	}
+		
+h1 {position: absolute;
+		width: 773px;
+		height: 272px;
+		left: 13px;
+		top: 48px;
+
+		font-style: normal;
+		font-weight: bold;
+		font-size: 96px;
+		line-height: 131px;
+		display: flex;
+		align-items: left;
+		text-align: left;
+
+		color: #FFFFFF;
+	}
+
+.aboutus {position: absolute;
+		width: 1157px;
+		height: 325px;
+		left: 167px;
+		top: 584px;
+
+		background: #81bba7;}
+
+.aboutustext {position: absolute;
+		width: 320px;
+		height: 70px;
+		left: 142px;
+		top: 490px;
+
+		font-family: Open Sans;
+		font-style: italic;
+		font-weight: bold;
+		font-size: 60px;
+		line-height: 68px;
+		display: flex;
+		align-items: center;
+
+		color: #FFFFFF;}
+
+.greybox {position: absolute;
+width: 358px;
+height: 376px;
+left: 676px;
+top: 25px;
+
+background: #DADADA;}
+
+.button {
+  border: none;
+  color: white;
+  padding: 0px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {position: absolute;
+width: 277px;
+height: 34px;
+left: 885px;
+top: 78px;
+
+font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+padding-left: 30px;
+text-align: right;
+
+background: #81BBA7;}
+
+.button2 {position: absolute;
+width: 277px;
+height: 34px;
+left: 885px;
+top: 126px;
+
+font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+padding-left: 30px;
+text-align: right;
+
+background: #81BBA7;}
