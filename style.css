@@ -112,6 +112,24 @@ text-align: right;
 
 background: #81BBA7;}
 
+.button3 {position: absolute;
+width: 277px;
+height: 34px;
+left: 885px;
+top: 174px;
+
+font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+padding-left: 30px;
+text-align: right;
+
+background: #81BBA7;}
+
 .letterback {position: absolute;
 width: 1440px;
 height: 1024px;
