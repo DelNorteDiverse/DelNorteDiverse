@@ -380,4 +380,30 @@ text-align: center;
 
 background: #81BBA7;}
 
+.aboutbody{position: absolute;
+width: 1090px;
+height: 182px;
+left: 201px;
+top: 642px;
 
+font-family: Open Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 28px;
+line-height: 33px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.mobilewarning{
+	width: 1440px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+	background: #B40B0E;
+}
