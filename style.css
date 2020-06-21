@@ -20,6 +20,31 @@
 		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	}
 		
+	.letterback {position: relative;
+width: 375px;
+height: 667px;
+left: 0px;
+top: 0px;
+
+background: rgba(129, 187, 167, 0.6)}
+
+.letterhighlight {position: absolute;
+width: 238px;
+height: 613px;
+left: 69px;
+top: 18px;
+
+background: #FFFFFF;}
+
+.homebutton {position: absolute;
+width: 114px;
+height: 29px;
+left: 131px;
+top: 50px;
+text-align: center;
+
+background: #81BBA7;}
+	
 h1 {position: absolute;
 		width: 773px;
 		height: 272px;
@@ -311,31 +336,6 @@ text-align: right;
 
 background: #81BBA7;}
 
-.letterback {position: relative;
-width: 375px;
-height: 667px;
-left: 0px;
-top: 0px;
-
-background: rgba(129, 187, 167, 0.6)}
-
-.letterhighlight {position: absolute;
-width: 238px;
-height: 613px;
-left: 69px;
-top: 18px;
-
-background: #FFFFFF;}
-
-.homebutton {position: absolute;
-width: 114px;
-height: 29px;
-left: 131px;
-top: 50px;
-text-align: center;
-
-background: #81BBA7;}
-
 .mission{position: absolute;
 width: 759px;
 height: 232px;
@@ -354,3 +354,30 @@ color: #FFFBFB;
 }
 
 .button:hover {background: #547d6f}
+
+.letterback {position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: rgba(129, 187, 167, 0.6)}
+
+.letterhighlight {position: absolute;
+width: 648px;
+height: 968px;
+left: 396px;
+top: 28px;
+
+background: #FFFFFF;}
+
+.homebutton {position: absolute;
+width: 309px;
+height: 47px;
+left: 44px;
+top: 102px;
+text-align: center;
+
+background: #81BBA7;}
+
+
